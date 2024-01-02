@@ -10,3 +10,5 @@ docs/_build
 *.backup
 .python-version
 .DS_Store
+bpmn_tools/models
+schemas
