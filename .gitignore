@@ -12,3 +12,4 @@ docs/_build
 .DS_Store
 bpmn_tools/models
 schemas
+local
